@@ -5,7 +5,7 @@ This app helps users to track their notes
 #### Intsructions
 1. Download the source code
 ```bash 
-git clone https://github.com/zarifboev-abdulaziz/ToDoAppNodeJs.git
+git clone https://github.com/zarifboev-abdulaziz/NotesApp.git
 ```
 or just download the zip file
 
@@ -27,7 +27,6 @@ node app
 
 
 ## Link to github repo
-https://github.com/zarifboev-abdulaziz/ToDoAppNodeJs.git
+https://github.com/zarifboev-abdulaziz/NotesApp.git
 
 #### Link to application on Glitch
-https://screeching-emphasized-parsnip.glitch.me/
