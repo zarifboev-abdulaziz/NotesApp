@@ -1,0 +1,13 @@
+git init
+npm init -y
+touch .gitignore
+npm i express pug
+
+git status
+git add .
+git commit -m "MESSAGE"
+git push -u origin master
+
+git remote add origin https://github.com/zarifboev-abdulaziz/NotesApp.git
+git branch -M master
+git push -u origin master
